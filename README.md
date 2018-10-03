@@ -2,7 +2,19 @@
 
 > A Vue.js project
 
-## Build Setup
+
+## Image
+
+"Homepage"
+![Home](image/4.png)
+"Portfolio"
+![Portfolio](image/3.png)
+"Stocks Page"
+![Stocks Page](image/2.png)
+"Firebase"
+![Firebase](image/1.png)
+
+### Build Setup
 
 ``` bash
 # install dependencies
