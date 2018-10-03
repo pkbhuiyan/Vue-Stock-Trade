@@ -5,14 +5,14 @@
 
 ## Image
 
-"Homepage"
-![Home](image/4.png)
-"Portfolio"
-![Portfolio](image/3.png)
-"Stocks Page"
-![Stocks Page](image/2.png)
-"Firebase"
-![Firebase](image/1.png)
+"Homepage" <br>
+![Home](https://github.com/pkbhuiyan/Vue-Stock-Trade/blob/master/image/4.PNG)
+"Portfolio" <br>
+![Portfolio](https://github.com/pkbhuiyan/Vue-Stock-Trade/blob/master/image/3.PNG)
+"Stocks Page" <br>
+![Stocks Page]https://github.com/pkbhuiyan/Vue-Stock-Trade/blob/master/image/2.PNG)
+"Firebase" <br>
+![Firebase](https://github.com/pkbhuiyan/Vue-Stock-Trade/blob/master/image/1.PNG)
 
 ### Build Setup
 
